@@ -1,0 +1,5 @@
+rootProject.name = 'primerCoreGradle'
+include 'db'
+include 'service'
+include 'api'
+
